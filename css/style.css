@@ -207,6 +207,10 @@ body {
   mask-size: cover;
   mask-repeat: no-repeat;
   mask-position: center;
+  -webkit-mask-image: url("../img/bg.svg");
+  -webkit-mask-size: cover;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-position: center;
 }
 .hero .content h1 {
   font-size: 5em;
